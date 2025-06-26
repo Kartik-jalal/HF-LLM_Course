@@ -18,3 +18,6 @@ tf-keras
 torch
 torchvision
 torchaudio
+
+##### NLP task specific
+sacremoses
