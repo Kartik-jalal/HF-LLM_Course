@@ -1,2 +1,20 @@
+##### jupyter
 ipykernel
+ipywidgets
+
+#####  transformers (Hugging Face specific)
 transformers[sentencepiece]
+
+#####  tensorflow
+tensorflow[and-cuda]  # For GPU users
+# tensorflow # For CPU users
+
+##### tensorflow keras
+tf-keras
+
+##### pytorch
+--extra-index-url https://download.pytorch.org/whl/cu128 # For GPU users
+# --extra-index-url https://download.pytorch.org/whl/cpu # For CPU users
+torch
+torchvision
+torchaudio

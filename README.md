@@ -15,11 +15,15 @@ Now, install the required python libs by:
 ```
 pip install -r requirements.txt
 ```
+> _Note: The requirements.txt contains **tensorflow** and **pytorch** libraries that utalises the gpu, if you don't have a gpu simply comment out these two lines `tensorflow[and-cuda] # For GPU users` and `--extra-index-url https://download.pytorch.org/whl/cu128 # For GPU users` there and uncomment the line just below them.<br />
+Furthermore, if you would like to check, if both pytorch and tensorflow are using the GPU after the above installation is done with the default libs,simply run `python3 gpu_check.py`._
 
 Lastly, to deactive the venv simply run:
 ```
 deactivate
 ```
+
+Now everytime you open any of the jupyter notebooks, e.g., *Chapter_1.ipynb*, simply select the *Kernel* '__.venv (Python {version})__' using the '*Select Kernel*' option.
 
 
 
