@@ -15,8 +15,9 @@ Now, install the required python libs by:
 ```
 pip install -r requirements.txt
 ```
-> _Note: The requirements.txt contains **tensorflow** and **pytorch** libraries that utalises the gpu, if you don't have a gpu simply comment out these two lines `tensorflow[and-cuda] # For GPU users` and `--extra-index-url https://download.pytorch.org/whl/cu128 # For GPU users` there and uncomment the line just below them.<br />
-Furthermore, if you would like to check, if both pytorch and tensorflow are using the GPU after the above installation is done with the default libs,simply run `python3 gpu_check.py`._
+> _Note: The requirements.txt install the **pytorch** cuda compatible lib to utalise the gpu. If you don't have a gpu simply comment out the **line 2** in the requirements.txt file and uncomment **line 3**.<br />
+Furthermore, if you would like to use **tensorflow** instead of **pytorch**, just uncomment the **line 14** and either **line 10** or **line 11** (depending on if you have a gpu or not), and after, comment out the lines from **2-6**.  <br />
+Lastly, if you would like to check if the GPU is being utalised after the above installation is done with the default libs, simply run `python3 gpu_check.py`._
 
 Lastly, to deactive the venv simply run:
 ```
