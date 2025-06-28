@@ -27,7 +27,7 @@ deactivate
 Now everytime you open any of the jupyter notebooks, e.g., *Chapter_1.ipynb*, simply select the *Kernel* '__.venv (Python {version})__' using the '*Select Kernel*' option.
 
 
-## [Chapter 1](chapter_1.ipynb) | [Hugging Face | Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt)
+## [Chapter 1](chapter_1.ipynb) | [Hugging Face - Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt)
 In Chapter 1, we go through over *transformer's* **pipeline** method,  **tokenisation** and the problem regarding **bias** when fine-tuning a pre-trained model.
 
 ## Chapter 2
