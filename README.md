@@ -1,5 +1,5 @@
 # HF-LLM_Course
-This Repo is for the work-through of [LLMs](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt) by HuggingFace.
+This Repo is for working through the [LLMs course](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt) by HuggingFace, to help me refamiliarise myself with NLP.
 
 ## Setup
 
@@ -32,6 +32,17 @@ In Chapter 1, we go through over *transformer's* **pipeline** method,  **tokenis
 
 ## Chapter 2
 Upcoming!
+
+# Reference
+```
+@misc{huggingfacecourse,
+  author = {Hugging Face},
+  title = {The Hugging Face Course, 2022},
+  howpublished = "\url{https://huggingface.co/course}",
+  year = {2022},
+  note = "[Online; accessed <today>]"
+}
+```
 
 
 
