@@ -28,9 +28,12 @@ Now everytime you open any of the jupyter notebooks, e.g., *Chapter_1.ipynb*, si
 
 
 ## [Chapter 1](chapter_1.ipynb) | [Hugging Face - Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt)
-In Chapter 1, we go through over *transformer's* **pipeline** method,  **tokenisation** and the problem regarding **bias** when fine-tuning a pre-trained model.
+In Chapter 1, we go over the *transformer’s* **pipeline** method, **tokenization**, and the issue of **bias** when *fine-tuning* a pre-trained model.
 
-## Chapter 2
+## [Chapter 2](chapter_2.ipynb) | [Hugging Face - Chapter 2](https://huggingface.co/learn/llm-course/chapter2/1?fw=pt)
+In Chapter 2, we go over how the **pipeline** method really works and also discuss the *optimized* way to *deploy* an LLM model.
+
+## [Chapter 3]() | [Hugging Face - Chapter 3](https://huggingface.co/learn/llm-course/chapter3/1?fw=pt)
 Upcoming!
 
 # Reference
