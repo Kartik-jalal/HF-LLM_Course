@@ -34,7 +34,7 @@ In Chapter 1, we go over the *transformer’s* **pipeline** method, **tokenizati
 ## [Chapter 2](chapter_2.ipynb) | [Hugging Face - Chapter 2](https://huggingface.co/learn/llm-course/chapter2/1?fw=pt)
 In Chapter 2, we go over how the **pipeline** method really works and also discuss the *optimized* way to *deploy* an LLM model.
 
-## [Chapter 3]() | [Hugging Face - Chapter 3](https://huggingface.co/learn/llm-course/chapter3/1?fw=pt)
+## [Chapter 3](chapter_3.ipynb) | [Hugging Face - Chapter 3](https://huggingface.co/learn/llm-course/chapter3/1?fw=pt)
 Upcoming!
 
 # Reference

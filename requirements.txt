@@ -31,6 +31,10 @@ ffmpeg
 transformers[sentencepiece]
 
 
+##### accelerate
+accelerate
+
+
 #####  datasets 
 datasets
 
