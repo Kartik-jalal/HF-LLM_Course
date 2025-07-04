@@ -23,12 +23,15 @@ ipywidgets
 sacremoses
 
 
-# audio video manager
+##### audio video manager
 ffmpeg
 
+##### sklearn 
+scikit-learn
 
-#####  transformers (Hugging Face specific)
-transformers[sentencepiece]
+
+##### scipy
+scipy
 
 
 ##### accelerate
@@ -37,4 +40,17 @@ accelerate
 
 #####  datasets 
 datasets
+
+
+##### evaluate
+evaluate
+
+
+#####  transformers (Hugging Face specific)
+transformers[sentencepiece]
+
+
+
+
+
 
