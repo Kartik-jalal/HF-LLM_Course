@@ -5,7 +5,6 @@ torch
 torchvision
 torchaudio
 
-
 #####  tensorflow
 # tensorflow[and-cuda]  # For GPU users
 # tensorflow  # For CPU users
@@ -52,6 +51,11 @@ transformers[sentencepiece]
 
 ##### livelossplot
 livelossplot
+
+
+##### tensorboard
+tensorboard
+
 
 
 
