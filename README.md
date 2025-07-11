@@ -35,6 +35,10 @@ In Chapter 1, we go over the *transformer’s* **pipeline** method, **tokenizati
 In Chapter 2, we go over how the **pipeline** method really works and also discuss the *optimized* way to *deploy* an LLM model.
 
 ## [Chapter 3](chapter_3.ipynb) | [Hugging Face - Chapter 3](https://huggingface.co/learn/llm-course/chapter3/1?fw=pt)
+In Chapter 3, we go over the modern *data pre-processing techniques*, *fine-tuning* and *evaluating* a model using the `Trainer` API, implementing a *complete custom training loop* from sctach with *PyTorch*, use of `Accelerate` lib to make our training code work seamlessly on multiple *GPUs* or *TPUs* and finally about *learning curves*.
+
+
+## [Chapter 4](chapter_4.ipynb) | [Hugging Face - Chapter 4](https://huggingface.co/learn/llm-course/chapter4/1?fw=pt)
 Upcoming!
 
 # Reference
