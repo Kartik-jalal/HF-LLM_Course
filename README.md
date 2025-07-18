@@ -37,9 +37,12 @@ In Chapter 2, we go over how the **pipeline** method really works and also discu
 ## [Chapter 3](chapter_3.ipynb) | [Hugging Face - Chapter 3](https://huggingface.co/learn/llm-course/chapter3/1?fw=pt)
 In Chapter 3, we go over the modern *data pre-processing techniques*, *fine-tuning* and *evaluating* a model using the `Trainer` API, implementing a *complete custom training loop* from sctach with *PyTorch*, use of `Accelerate` lib to make our training code work seamlessly on multiple *GPUs* or *TPUs* and finally about *learning curves*.
 
-
 ## [Chapter 4](chapter_4.ipynb) | [Hugging Face - Chapter 4](https://huggingface.co/learn/llm-course/chapter4/1?fw=pt)
+In Chapter 4, we learned how to simply upload a model to the **Hugging Face Hub**.
+
+## [Chapter 5](chapter_5.ipynb) | [Hugging Face - Chapter 5](https://huggingface.co/learn/llm-course/chapter5/1?fw=pt)
 Upcoming!
+
 
 # Reference
 ```
