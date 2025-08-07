@@ -66,6 +66,13 @@ requests
 ##### dotenv 
 python-dotenv
 
+##### faiss
+faiss-cpu
+
+
+##### pip-tools
+pip-tools
+
 
 
 
